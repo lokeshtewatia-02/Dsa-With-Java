@@ -4,6 +4,6 @@ public class functioncall {
 
     }
     static void functioncall(){
-        System.out.println("This is function call");
+        System.out.println(" function call");
     }    
 }
