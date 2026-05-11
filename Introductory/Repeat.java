@@ -10,7 +10,8 @@ public class Repeat {
             n= n/10;
 
         }
-        System.out.println(count);
+        System.out.println(count );
     }
     
 }
+ // Out: 
